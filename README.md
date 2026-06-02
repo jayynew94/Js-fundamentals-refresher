@@ -2,10 +2,10 @@ JS Fundamentals Refresher
 A focused week of JavaScript practice — built as part of my 90-day software engineering growth plan.
 
 What This Is
-I'm a bootcamp grad and CS degree holder actively working toward my first software engineering role. Even though I already had JavaScript experience, I went back to the fundamentals on purpose — because the best developers know their foundation cold. This repo is the result of that week.
+I'm a bootcamp grad and CS degree holder actively working toward my first software engineering role. Even though I already had JavaScript experience, I went back to the fundamentals on purpose, because the best developers know their foundation cold. This repo is the result of that week.
 
 What's Inside
-FileWhat I practicedpractice.jsVariables, data types, typeof, type conversionfunctions.jsRegular functions, arrow functions, default parametersarrays.jsArray methods — map, filter, reduce
+FileWhat I practicedpractice.jsVariables, data types, typeof, type conversionfunctions.jsRegular functions, arrow functions, default parametersarrays.jsArray methods: map, filter, reduce
 
 Concepts Covered
 
