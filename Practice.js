@@ -12,4 +12,4 @@ console.log(typeof undef); // undefined
 
 //type conversion
 console.log(String(age));
-console.log(Number(33));
+console.log(Number("33"));
